@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '39354'
     url: http://www.gutenberg.org/2009/agents/39354
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38264#Guatemala-the-country-of-the-future
 gutenberg_issued: '2011-12-10'
 gutenberg_type: Text
 identifiers:
